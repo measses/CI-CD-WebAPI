@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Docker-Test-API.props" />
+</Project>
